@@ -1,5 +1,5 @@
 # Code Sample
-This is the Code Samples for Haoliang Hu, including
+This repository contain the Code Samples for Haoliang Hu, including
 + Stata
 + R
 + Python
